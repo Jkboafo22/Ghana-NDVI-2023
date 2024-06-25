@@ -12,13 +12,19 @@ The NDVI map of Ghana in 2023 represents the mean composite of NDVI values for t
 
 ![JKB Canopy Height (2)](https://github.com/Jkboafo22/Ghana-NDVI-2023/assets/65027196/37072101-a0e8-49c8-9ccd-681d67e82359)
 
-**Barren land, non-vegetated (-1.0 to -0.1) 
-Bare soil, sparse vegetation (-0.1 to 0.0) 
-Sparse vegetation (0.0 to 0.2) 
-Moderate vegetation (0.2 to 0.4) 
-Healthy vegetation (0.4 to 0.6) 
-Very healthy vegetation (0.6 to 0.8) 
-Extremely healthy vegetation, dense forest (0.8 to 1.0)**
+🏜️ Barren land, non-vegetated: -0.1 to 0.0
+
+🌾 Bare soil, sparse vegetation: 0.0 to 0.1
+
+🌱 Sparse vegetation: 0.1 to 0.2
+
+🌿 Moderate vegetation: 0.2 to 0.4
+
+🌳 Healthy vegetation: 0.4 to 0.6
+
+🌲 Very healthy vegetation: 0.6 to 0.8
+
+🌳🌳 Extremely healthy vegetation, dense forest: 0.8 to 1.0
 
 
 

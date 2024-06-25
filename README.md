@@ -1,4 +1,4 @@
-# $${\color{lightgreen}Ghana\space NDVI\space 2023}$$  
+# $${\color{lightgreen}2023\space NDVI\space MAP\space OF\space GHANA}$$  
 
 ## _Normalized Difference Vegetation Index (NDVI) Map of Sentinel-2 satellite imagery with Python🐍_.
 🚨This analysis is crucial for monitoring agricultural productivity, assessing environmental changes, and planning sustainable land management practices. 

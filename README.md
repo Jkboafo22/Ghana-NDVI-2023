@@ -1,6 +1,9 @@
-# $${\color{lightgreen}Ghana\space  NDVI\space 2023}$$
+# $${\color{lightgreen}Ghana\space NDVI\space 2023}$$  
 
- Normalized Difference Vegetation Index (NDVI) Map of Sentinel-2 satellite imagery with Python.This analysis is crucial for monitoring agricultural productivity, assessing environmental changes, and planning sustainable land management practices.   
+## _Normalized Difference Vegetation Index (NDVI) Map of Sentinel-2 satellite imagery with Python🐍_.
+This analysis is crucial for monitoring agricultural productivity, assessing environmental changes, and planning sustainable land management practices. 
+
+
 
 
 
@@ -11,6 +14,8 @@ The NDVI map of Ghana in 2023 represents the mean composite of NDVI values for t
 
 
 ![JKB Canopy Height (2)](https://github.com/Jkboafo22/Ghana-NDVI-2023/assets/65027196/37072101-a0e8-49c8-9ccd-681d67e82359)
+
+#### NDVI Value Ranges:
 
 🏜️ Barren land, non-vegetated: -0.1 to 0.0
 
@@ -43,4 +48,19 @@ A detailed graph showing the minimum, maximum, and mean NDVI values over the yea
 A histogram illustrating the distribution of NDVI values, providing a clear picture of vegetation density across the region.
 
 ![NDVI_Histogram1](https://github.com/Jkboafo22/Ghana-NDVI-2023/assets/65027196/cf3b74d0-23ec-482e-a5f9-80b3d94325cc)
+
+## **Language/Tools:**
+🔧 Google Earth Engine(GEE) Map Python API
+🔧 Jupyter Notebook
+
+## **Data and Data Provider:**
+📊 Data: Sentinel-2 satellite imagery
+🌐 Data Provider: https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/processing-levels/level-2
+
+
+
+
+
+
+
 

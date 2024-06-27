@@ -39,6 +39,7 @@ The NDVI map of Ghana in 2023 represents the mean composite of NDVI values for t
 
 A detailed graph showing the minimum, maximum, and mean NDVI values over the year (2023), offering insights into vegetation dynamics and trends.
 
+
 ![NDVI_MINMAX](https://github.com/Jkboafo22/Ghana-NDVI-2023/assets/65027196/19dd2334-1c8b-40eb-9ce4-991331b0a6fb)
 
 
